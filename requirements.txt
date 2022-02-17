@@ -52,7 +52,7 @@ pytz==2019.1
 pyzmq==18.0.1
 qtconsole==4.4.4
 requests==2.21.0
-sanic==19.3.1
+sanic==20.12.6
 Send2Trash==1.5.0
 six==1.12.0
 sqlparse==0.3.0
